@@ -3,3 +3,48 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  text-align: center;
+
+}
+
+
+#featured-property{
+  text-align: center;
+  
+
+}
+
+nav{
+  align-items: center;
+  padding: 5px;
+  background-color:blanchedalmond;
+}
+
+#featured-property figcaption{
+font-size: 14px;
+text-align: center;
+margin-top: 10px;
+
+}
+
+#featured-property p{
+align-items: center;
+width:800px;
+margin: 15px auto;
+
+
+}
+
+#details{
+  display: flex;
+  justify-content: space-around;
+  background-color: #f0f0f0; /* Set your desired background color */
+  margin: 20px 20px 0 0;
+  text-align: center;
+}
+
+
+
+
